@@ -1,5 +1,425 @@
 [
   {
+    "id": "apcsa.2000.q1-unimodal-histogram",
+    "name": "AP CSA 2000 Question 1: UnimodalHistogram",
+    "descriptionPreview": "AP Computer Science A 2000 Question 1 adapted from the original "
+  },
+  {
+    "id": "apcsa.2000.q2-big-int-power",
+    "name": "AP CSA 2000 Question 2: BigIntPower",
+    "descriptionPreview": "AP Computer Science A 2000 Question 2 adapted from the original "
+  },
+  {
+    "id": "apcsa.2000.q3-word-collection",
+    "name": "AP CSA 2000 Question 3: WordCollection",
+    "descriptionPreview": "AP Computer Science A 2000 Question 3 adapted from the original "
+  },
+  {
+    "id": "apcsa.2000.q4-encryptor",
+    "name": "AP CSA 2000 Question 4: Encryptor",
+    "descriptionPreview": "AP Computer Science A 2000 Question 4 adapted from the original "
+  },
+  {
+    "id": "apcsa.2001.q1-gas-station",
+    "name": "AP CSA 2001 Question 1: Gas Station",
+    "descriptionPreview": "AP Computer Science A 2001 Question 1 adapted from the original "
+  },
+  {
+    "id": "apcsa.2001.q2-book-list",
+    "name": "AP CSA 2001 Question 2: Book List",
+    "descriptionPreview": "AP Computer Science A 2001 Question 2 adapted from the original "
+  },
+  {
+    "id": "apcsa.2001.q3-fish-simulation",
+    "name": "AP CSA 2001 Question 3: Fish Simulation",
+    "descriptionPreview": "AP Computer Science A 2001 Question 3 adapted from the original "
+  },
+  {
+    "id": "apcsa.2001.q4-window",
+    "name": "AP CSA 2001 Question 4: Window",
+    "descriptionPreview": "AP Computer Science A 2001 Question 4 adapted from the original "
+  },
+  {
+    "id": "apcsa.2002.q1-tally-stats",
+    "name": "AP CSA 2002 Question 1: TallyStats",
+    "descriptionPreview": "AP Computer Science A 2002 Question 1 adapted from the original "
+  },
+  {
+    "id": "apcsa.2002.q2-grocery-store",
+    "name": "AP CSA 2002 Question 2: GroceryStore",
+    "descriptionPreview": "AP Computer Science A 2002 Question 2 adapted from the original "
+  },
+  {
+    "id": "apcsa.2002.q3-forward-fish",
+    "name": "AP CSA 2002 Question 3: ForwardFish",
+    "descriptionPreview": "AP Computer Science A 2002 Question 3 adapted from the original "
+  },
+  {
+    "id": "apcsa.2002.q4-flight-seats",
+    "name": "AP CSA 2002 Question 4: FlightSeats",
+    "descriptionPreview": "AP Computer Science A 2002 Question 4 adapted from the original "
+  },
+  {
+    "id": "apcsa.2003.q1-college-group",
+    "name": "AP CSA 2003 Question 1: College Group",
+    "descriptionPreview": "AP Computer Science A 2003 Question 1 adapted from the original "
+  },
+  {
+    "id": "apcsa.2003.q2-company-retirements",
+    "name": "AP CSA 2003 Question 2: Company Retirements",
+    "descriptionPreview": "AP Computer Science A 2003 Question 2 adapted from the original "
+  },
+  {
+    "id": "apcsa.2003.q3-treasure-map",
+    "name": "AP CSA 2003 Question 3: Treasure Map",
+    "descriptionPreview": "AP Computer Science A 2003 Question 3 adapted from the original "
+  },
+  {
+    "id": "apcsa.2003.q4-algae-fish",
+    "name": "AP CSA 2003 Question 4: Algae Fish",
+    "descriptionPreview": "AP Computer Science A 2003 Question 4 adapted from the original "
+  },
+  {
+    "id": "apcsa.2004.q1-word-list",
+    "name": "AP CSA 2004 Question 1: WordList",
+    "descriptionPreview": "AP Computer Science A 2004 Question 1: WordList."
+  },
+  {
+    "id": "apcsa.2004.q2-pet-kennel",
+    "name": "AP CSA 2004 Question 2: PetKennel",
+    "descriptionPreview": "AP Computer Science A 2004 Question 2: PetKennel."
+  },
+  {
+    "id": "apcsa.2004.q3-pond-stocker",
+    "name": "AP CSA 2004 Question 3: PondStocker",
+    "descriptionPreview": "AP Computer Science A 2004 Question 3 adapted from the Marine Bi"
+  },
+  {
+    "id": "apcsa.2004.q4-robot",
+    "name": "AP CSA 2004 Question 4: Robot",
+    "descriptionPreview": "AP Computer Science A 2004 Question 4: Robot."
+  },
+  {
+    "id": "apcsa.2005.q1-hotel",
+    "name": "AP CSA 2005 Question 1: Hotel",
+    "descriptionPreview": "AP Computer Science A 2005 Question 1: Hotel."
+  },
+  {
+    "id": "apcsa.2005.q2-tickets",
+    "name": "AP CSA 2005 Question 2: Tickets",
+    "descriptionPreview": "AP Computer Science A 2005 Question 2: Tickets."
+  },
+  {
+    "id": "apcsa.2005.q3-zigzag-fish",
+    "name": "AP CSA 2005 Question 3: ZigZagFish",
+    "descriptionPreview": "AP Computer Science A 2005 Question 3 adapted from the Marine Bi"
+  },
+  {
+    "id": "apcsa.2005.q4-student-record",
+    "name": "AP CSA 2005 Question 4: StudentRecord",
+    "descriptionPreview": "AP Computer Science A 2005 Question 4: StudentRecord."
+  },
+  {
+    "id": "apcsa.2006.q1-daily-schedule",
+    "name": "AP CSA 2006 Question 1: DailySchedule",
+    "descriptionPreview": "AP Computer Science A 2006 Question 1: DailySchedule."
+  },
+  {
+    "id": "apcsa.2006.q2-vehicle",
+    "name": "AP CSA 2006 Question 2: Vehicle",
+    "descriptionPreview": "AP Computer Science A 2006 Question 2: Vehicle."
+  },
+  {
+    "id": "apcsa.2006.q3-customer-merge",
+    "name": "AP CSA 2006 Question 3: CustomerMerge",
+    "descriptionPreview": "AP Computer Science A 2006 Question 3: CustomerMerge."
+  },
+  {
+    "id": "apcsa.2006.q4-drop-game",
+    "name": "AP CSA 2006 Question 4: DropGame",
+    "descriptionPreview": "AP Computer Science A 2006 Question 4 adapted from the Marine Bi"
+  },
+  {
+    "id": "apcsa.2007.q1-self-divisor",
+    "name": "AP CSA 2007 Question 1: SelfDivisor",
+    "descriptionPreview": "AP Computer Science A 2007 Question 1: SelfDivisor."
+  },
+  {
+    "id": "apcsa.2007.q2-pounce-fish",
+    "name": "AP CSA 2007 Question 2: PounceFish",
+    "descriptionPreview": "AP Computer Science A 2007 Question 2: PounceFish. The original "
+  },
+  {
+    "id": "apcsa.2007.q3-answer-sheets",
+    "name": "AP CSA 2007 Question 3: Answer Sheets",
+    "descriptionPreview": "AP Computer Science A 2007 Question 3: Answer Sheets."
+  },
+  {
+    "id": "apcsa.2007.q4-game-design",
+    "name": "AP CSA 2007 Question 4: Game Design",
+    "descriptionPreview": "AP Computer Science A 2007 Question 4: Game Design."
+  },
+  {
+    "id": "apcsa.2008.q1-trip",
+    "name": "AP CSA 2008 Question 1: Trip",
+    "descriptionPreview": "AP Computer Science A 2008 Question 1 adapted as a Java Trip ass"
+  },
+  {
+    "id": "apcsa.2008.q2-string-coder",
+    "name": "AP CSA 2008 Question 2: StringCoder",
+    "descriptionPreview": "AP Computer Science A 2008 Question 2 adapted as a Java StringCo"
+  },
+  {
+    "id": "apcsa.2008.q3-opossum-critter",
+    "name": "AP CSA 2008 Question 3: OpossumCritter",
+    "descriptionPreview": "AP Computer Science A 2008 Question 3 adapted from the old GridW"
+  },
+  {
+    "id": "apcsa.2008.q4-checker-objects",
+    "name": "AP CSA 2008 Question 4: Checker Objects",
+    "descriptionPreview": "AP Computer Science A 2008 Question 4 adapted as a Java Checker "
+  },
+  {
+    "id": "apcsa.2009.q1-number-cube",
+    "name": "AP CSA 2009 Question 1: NumberCube",
+    "descriptionPreview": "AP Computer Science A 2009 Question 1: NumberCube toss arrays an"
+  },
+  {
+    "id": "apcsa.2009.q2-stockpile-critter",
+    "name": "AP CSA 2009 Question 2: StockpileCritter",
+    "descriptionPreview": "AP Computer Science A 2009 Question 2 adapted from the old GridW"
+  },
+  {
+    "id": "apcsa.2009.q3-battery-charger",
+    "name": "AP CSA 2009 Question 3: BatteryCharger",
+    "descriptionPreview": "AP Computer Science A 2009 Question 3: BatteryCharger charging c"
+  },
+  {
+    "id": "apcsa.2009.q4-tile-game",
+    "name": "AP CSA 2009 Question 4: TileGame",
+    "descriptionPreview": "AP Computer Science A 2009 Question 4: TileGame tile insertion a"
+  },
+  {
+    "id": "apcsa.2010.q1-master-order",
+    "name": "AP CSA 2010 Question 1: MasterOrder",
+    "descriptionPreview": "AP Computer Science A 2010 Question 1: MasterOrder and CookieOrd"
+  },
+  {
+    "id": "apcsa.2010.q2-ap-line",
+    "name": "AP CSA 2010 Question 2: APLine",
+    "descriptionPreview": "AP Computer Science A 2010 Question 2: APLine."
+  },
+  {
+    "id": "apcsa.2010.q3-trail",
+    "name": "AP CSA 2010 Question 3: Trail",
+    "descriptionPreview": "AP Computer Science A 2010 Question 3: Trail."
+  },
+  {
+    "id": "apcsa.2010.q4-grid-checker",
+    "name": "AP CSA 2010 Question 4: GridChecker",
+    "descriptionPreview": "AP Computer Science A 2010 Question 4 adapted from the old GridW"
+  },
+  {
+    "id": "apcsa.2011.q1-sound",
+    "name": "AP CSA 2011 Question 1: Sound",
+    "descriptionPreview": "AP Computer Science A 2011 Question 1: Sound."
+  },
+  {
+    "id": "apcsa.2011.q2-attractive-critter",
+    "name": "AP CSA 2011 Question 2: AttractiveCritter",
+    "descriptionPreview": "AP Computer Science A 2011 Question 2 adapted from the GridWorld"
+  },
+  {
+    "id": "apcsa.2011.q3-fuel-depot",
+    "name": "AP CSA 2011 Question 3: FuelDepot",
+    "descriptionPreview": "AP Computer Science A 2011 Question 3: FuelDepot."
+  },
+  {
+    "id": "apcsa.2011.q4-route-cipher",
+    "name": "AP CSA 2011 Question 4: RouteCipher",
+    "descriptionPreview": "AP Computer Science A 2011 Question 4: RouteCipher."
+  },
+  {
+    "id": "apcsa.2012.q1-climbing-club",
+    "name": "AP CSA 2012 Question 1: ClimbingClub",
+    "descriptionPreview": "AP Computer Science A 2012 Question 1: ClimbingClub. This coding"
+  },
+  {
+    "id": "apcsa.2012.q2-retro-bug",
+    "name": "AP CSA 2012 Question 2: RetroBug",
+    "descriptionPreview": "AP Computer Science A 2012 Question 2 adapted from the GridWorld"
+  },
+  {
+    "id": "apcsa.2012.q3-horse-barn",
+    "name": "AP CSA 2012 Question 3: HorseBarn",
+    "descriptionPreview": "AP Computer Science A 2012 Question 3: HorseBarn."
+  },
+  {
+    "id": "apcsa.2012.q4-gray-image",
+    "name": "AP CSA 2012 Question 4: GrayImage",
+    "descriptionPreview": "AP Computer Science A 2012 Question 4: GrayImage."
+  },
+  {
+    "id": "apcsa.2013.q1-music-downloads",
+    "name": "AP CSA 2013 Question 1: MusicDownloads",
+    "descriptionPreview": "AP Computer Science A 2013 Question 1: MusicDownloads and Downlo"
+  },
+  {
+    "id": "apcsa.2013.q2-token-pass",
+    "name": "AP CSA 2013 Question 2: TokenPass",
+    "descriptionPreview": "AP Computer Science A 2013 Question 2: TokenPass."
+  },
+  {
+    "id": "apcsa.2013.q3-jumping-critter",
+    "name": "AP CSA 2013 Question 3: JumpingCritter",
+    "descriptionPreview": "AP Computer Science A 2013 Question 3: GridWorldUtilities and Ju"
+  },
+  {
+    "id": "apcsa.2013.q4-sky-view",
+    "name": "AP CSA 2013 Question 4: SkyView",
+    "descriptionPreview": "AP Computer Science A 2013 Question 4: SkyView."
+  },
+  {
+    "id": "apcsa.2014.q1-scramble",
+    "name": "AP CSA 2014 Question 1: Scramble",
+    "descriptionPreview": "AP Computer Science A 2014 Question 1: string scrambling and lis"
+  },
+  {
+    "id": "apcsa.2014.q2-director",
+    "name": "AP CSA 2014 Question 2: Director",
+    "descriptionPreview": "AP Computer Science A 2014 Question 2, adapted from the retired "
+  },
+  {
+    "id": "apcsa.2014.q3-seating-chart",
+    "name": "AP CSA 2014 Question 3: SeatingChart",
+    "descriptionPreview": "AP Computer Science A 2014 Question 3: filling and updating a tw"
+  },
+  {
+    "id": "apcsa.2014.q4-trio",
+    "name": "AP CSA 2014 Question 4: Trio",
+    "descriptionPreview": "AP Computer Science A 2014 Question 4: implement a Trio menu ite"
+  },
+  {
+    "id": "apcsa.2015.q1-diverse-array",
+    "name": "AP CSA 2015 Question 1: DiverseArray",
+    "descriptionPreview": "AP Computer Science A 2015 Question 1: one-dimensional and two-d"
+  },
+  {
+    "id": "apcsa.2015.q2-hidden-word",
+    "name": "AP CSA 2015 Question 2: HiddenWord",
+    "descriptionPreview": "AP Computer Science A 2015 Question 2: implement a word-guessing"
+  },
+  {
+    "id": "apcsa.2015.q3-sparse-array",
+    "name": "AP CSA 2015 Question 3: SparseArray",
+    "descriptionPreview": "AP Computer Science A 2015 Question 3: query and update a sparse"
+  },
+  {
+    "id": "apcsa.2015.q4-number-groups",
+    "name": "AP CSA 2015 Question 4: Number Groups",
+    "descriptionPreview": "AP Computer Science A 2015 Question 4: design an interface, impl"
+  },
+  {
+    "id": "apcsa.2016.q1-random-chooser",
+    "name": "AP CSA 2016 Question 1: RandomChooser",
+    "descriptionPreview": "AP Computer Science A 2016 Question 1: RandomChooser."
+  },
+  {
+    "id": "apcsa.2016.q2-system-log",
+    "name": "AP CSA 2016 Question 2: SystemLog",
+    "descriptionPreview": "AP Computer Science A 2016 Question 2: SystemLog."
+  },
+  {
+    "id": "apcsa.2016.q3-crossword",
+    "name": "AP CSA 2016 Question 3: Crossword",
+    "descriptionPreview": "AP Computer Science A 2016 Question 3: Crossword."
+  },
+  {
+    "id": "apcsa.2016.q4-string-formatter",
+    "name": "AP CSA 2016 Question 4: StringFormatter",
+    "descriptionPreview": "AP Computer Science A 2016 Question 4: StringFormatter."
+  },
+  {
+    "id": "apcsa.2017.q1-digits",
+    "name": "AP CSA 2017 Question 1: Digits",
+    "descriptionPreview": "AP Computer Science A 2017 Question 1: construct a list of digit"
+  },
+  {
+    "id": "apcsa.2017.q2-mult-practice",
+    "name": "AP CSA 2017 Question 2: MultPractice",
+    "descriptionPreview": "AP Computer Science A 2017 Question 2: implement a StudyPractice"
+  },
+  {
+    "id": "apcsa.2017.q3-phrase",
+    "name": "AP CSA 2017 Question 3: Phrase",
+    "descriptionPreview": "AP Computer Science A 2017 Question 3: replace an nth string occ"
+  },
+  {
+    "id": "apcsa.2017.q4-successors",
+    "name": "AP CSA 2017 Question 4: Successors",
+    "descriptionPreview": "AP Computer Science A 2017 Question 4: find values in a 2D array"
+  },
+  {
+    "id": "apcsa.2018.q1-frog-simulation",
+    "name": "AP CSA 2018 Question 1: FrogSimulation",
+    "descriptionPreview": "AP Computer Science A 2018 Question 1: implement a frog hopping "
+  },
+  {
+    "id": "apcsa.2018.q2-word-pair",
+    "name": "AP CSA 2018 Question 2: WordPairList",
+    "descriptionPreview": "AP Computer Science A 2018 Question 2: build all ordered-by-posi"
+  },
+  {
+    "id": "apcsa.2018.q3-code-word-checker",
+    "name": "AP CSA 2018 Question 3: CodeWordChecker",
+    "descriptionPreview": "AP Computer Science A 2018 Question 3: implement CodeWordChecker"
+  },
+  {
+    "id": "apcsa.2018.q4-latin-square",
+    "name": "AP CSA 2018 Question 4: ArrayTester",
+    "descriptionPreview": "AP Computer Science A 2018 Question 4: extract a column from a t"
+  },
+  {
+    "id": "apcsa.2019.q1-ap-calendar",
+    "name": "AP CSA 2019 Question 1: APCalendar",
+    "descriptionPreview": "AP Computer Science A 2019 Question 1: APCalendar. This assignme"
+  },
+  {
+    "id": "apcsa.2019.q2-step-tracker",
+    "name": "AP CSA 2019 Question 2: StepTracker",
+    "descriptionPreview": "AP Computer Science A 2019 Question 2: StepTracker. This assignm"
+  },
+  {
+    "id": "apcsa.2019.q3-delimiters",
+    "name": "AP CSA 2019 Question 3: Delimiters",
+    "descriptionPreview": "AP Computer Science A 2019 Question 3: Delimiters. This assignme"
+  },
+  {
+    "id": "apcsa.2019.q4-light-board",
+    "name": "AP CSA 2019 Question 4: LightBoard",
+    "descriptionPreview": "AP Computer Science A 2019 Question 4: LightBoard. This assignme"
+  },
+  {
+    "id": "apcsa.2022.q1-game",
+    "name": "AP CSA 2022 Question 1: Game",
+    "descriptionPreview": "AP Computer Science A 2022 Question 1: Game."
+  },
+  {
+    "id": "apcsa.2022.q2-textbook",
+    "name": "AP CSA 2022 Question 2: Textbook",
+    "descriptionPreview": "AP Computer Science A 2022 Question 2: Textbook."
+  },
+  {
+    "id": "apcsa.2022.q3-review-analysis",
+    "name": "AP CSA 2022 Question 3: ReviewAnalysis",
+    "descriptionPreview": "AP Computer Science A 2022 Question 3: ReviewAnalysis."
+  },
+  {
+    "id": "apcsa.2022.q4-data",
+    "name": "AP CSA 2022 Question 4: Data",
+    "descriptionPreview": "AP Computer Science A 2022 Question 4: Data."
+  },
+  {
     "id": "apcsa.2023.q1-appointment-book",
     "name": "AP CSA 2023 Question 1: AppointmentBook",
     "descriptionPreview": "AP Computer Science A 2023 Question 1: AppointmentBook."
@@ -78,6 +498,26 @@
     "id": "apcsa.2026.q4-game-board",
     "name": "AP CSA 2026 Question 4: GameBoard",
     "descriptionPreview": "AP Computer Science A 2026 Question 4: GameBoard."
+  },
+  {
+    "id": "apcsa.1999.q1-student-records",
+    "name": "AP CSA 1999 Question 1: StudentRecords",
+    "descriptionPreview": "AP Computer Science A 1999 Question 1 adapted from the original "
+  },
+  {
+    "id": "apcsa.1999.q2-word-list",
+    "name": "AP CSA 1999 Question 2: WordList",
+    "descriptionPreview": "AP Computer Science A 1999 Question 2 adapted from the original "
+  },
+  {
+    "id": "apcsa.1999.q3-big-int-division",
+    "name": "AP CSA 1999 Question 3: BigIntDivision",
+    "descriptionPreview": "AP Computer Science A 1999 Question 3 adapted from the original "
+  },
+  {
+    "id": "apcsa.1999.q4-quilt",
+    "name": "AP CSA 1999 Question 4: Quilt",
+    "descriptionPreview": "AP Computer Science A 1999 Question 4 adapted from the original "
   },
   {
     "id": "codingbat.ap-1.bigheights",
